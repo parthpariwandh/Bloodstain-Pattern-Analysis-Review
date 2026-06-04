@@ -1,137 +1,134 @@
-# bpa-multidisciplinary-review\n\n## Official Computational Companion Repository\n\n**Parth Pariwandh**  \nB.E. Mechanical Engineering (Class of 2027), Jadavpur University, Kolkata  \nIEEE Student Member #100776649 · GATE ME 2026 (AIR 1871) · WorldQuant BRAIN Gold Level\n\n> Prepared in connection with the confirmed short-term research internship under **Dr. Bahni Ray**, Associate Professor, Department of Mechanical Engineering, IIT Delhi (1 June 2026–31 July 2026; official letter dated 25 May 2026).\n\n## Abstract and Motivation\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\nBloodstain Pattern Analysis (BPA) benefits from physically faithful modeling, robust data processing, and explicit uncertainty quantification. This repository operationalizes that multidisciplinary view by implementing fluid-dynamics utilities, an exact ANN surrogate for maximum spreading ratio, automated image-based feature extraction, and probabilistic 3-D region-of-origin reconstruction. The goal is to provide a reproducible and academically defensible computational foundation suitable for serious research collaboration and extension.\n\n## Connecting the Four Studies\n\n| Paper | Core problem | Key method | Key result |\n|---|---|---|---|\n| ANN droplet spreading study | Predicting β_max under oblique impact and roughness variation | Exact 4-4-1 ANN equation with normalized inputs | Strong predictive performance and roughness-sensitive behavior |\n| Joris et al. (2014) | Impact-angle estimation from stain shape | Third-order polynomial (ABSM) against ellipse fitting | Marked gains in 20–50° regime |\n| Attinger et al. (2019) | Region-of-origin estimation with uncertainty | Probabilistic trajectory and height PDFs | Error ≤10 cm, no systematic bias |\n| Arthur et al. (2017) | Quantitative pattern feature extraction | Segmentation + morphology + component analytics | Reduced subjectivity via automated descriptors |\n\n## Unified BPA Workflow\n\n```mermaid\nflowchart TD\n    A[Acquisition] --> B[Preprocessing]\n    B --> C[Segmentation + Morphology]\n    C --> D[Local/Global Feature Extraction]\n    D --> E[Impact-Angle Estimation]\n    E --> F[Trajectory PDFs]\n    F --> G[Joint Likelihood]\n    G --> H[Probabilistic Region of Origin]\n    H --> I[Interpretation and Reporting]\n```\n\n## Critical Analysis\n\n### Analysis Note 1\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 2\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 3\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 4\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 5\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 6\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 7\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 8\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 9\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 10\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 11\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 12\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 13\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 14\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 15\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 16\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 17\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 18\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 19\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 20\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 21\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 22\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 23\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 24\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 25\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 26\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 27\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 28\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 29\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 30\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 31\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 32\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 33\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 34\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 35\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 36\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 37\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 38\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 39\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 40\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 41\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 42\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 43\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 44\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 45\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 46\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 47\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 48\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 49\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 50\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 51\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 52\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 53\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 54\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 55\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n### Analysis Note 56\nTraditional energy-balance models remain useful but can underperform when contact-line dynamics, roughness interactions, and non-ideal morphology dominate.\n\n### Analysis Note 57\nSurface roughness (ra) is a first-order effect because it modifies effective wetting, dissipation, and pinning behavior.\n\n### Analysis Note 58\nABSM outperforms pure ellipse fitting in transitional angle ranges because geometric assumptions degrade under stain distortion.\n\n### Analysis Note 59\nProbabilistic origin estimation improves scientific transparency by replacing single-point certainty with likelihood fields.\n\n### Analysis Note 60\nAutomated quantitative descriptors strengthen forensic admissibility by reducing analyst subjectivity and improving repeatability.\n\n## Relevance to Research Internship at IIT Delhi\n\nThe repository links fluid dynamics, machine learning, image processing, and statistical inference in a single research-grade stack. This mirrors the multidisciplinary problem-solving expected in advanced mechanical-engineering research environments, including Dr. Bahni Ray's lab at IIT Delhi, where physically grounded modeling and computational rigor are both essential.\n\n## Quickstart\n\n```bash\ngit clone https://github.com/parthpariwandh/Bloodstain-Pattern-Analysis-Review.git\ncd Bloodstain-Pattern-Analysis-Review\npython -m venv .venv\nsource .venv/bin/activate\npip install -r requirements.txt\npip install -e .\n```\n\n```python\nfrom bpa.ann import predict_beta_max\nfrom bpa.image_pipeline import generate_synthetic_pattern, analyze_pattern\n\nprint(predict_beta_max(3200, 500, 1.05, 450))\nprint(analyze_pattern(generate_synthetic_pattern(seed=7, n_elements=420))["count"])\n```\n\n## Future Directions\n\n1. PINN integration for trajectory constraints.\n2. Real-scene validation and larger datasets.\n3. Enhanced uncertainty quantification pipelines.\n4. Advanced substrate-specific calibration.\n\n## Citation\n\nPlease cite using `CITATION.cff` and `paper/references.bib`.\n
-## Extended Technical Discussion
+# bpa-multidisciplinary-review
 
-### Extended Note 1
-In practice, BPA computation benefits from disciplined calibration protocols. Camera calibration, scale annotation, and substrate metadata should be captured before numerical interpretation begins. Failing to encode calibration context can produce mathematically precise but physically misleading estimates. This repository therefore treats metadata as part of the model, not an optional appendix.
+Official Computational Companion Repository
 
-### Extended Note 2
-Reproducibility is a legal and scientific requirement in forensic engineering. Every transformation from image pixels to angle distributions should be traceable through versioned code, fixed dependencies, and explicit parameter records. This repository is designed to support that chain-of-custody mindset for computational evidence.
+Parth Pariwandh  
+B.E. Mechanical Engineering (Class of 2027), Jadavpur University, Kolkata  
+IEEE Student Member #100776649 · GATE ME 2026 (AIR 1871) · WorldQuant BRAIN Gold Level
 
-### Extended Note 3
-The ANN implementation is intentionally explicit rather than hidden inside serialized model files. Coefficients, normalization constants, and transfer functions are encoded as plain Python expressions. This improves auditability and allows direct cross-checking with equations printed in the review paper.
+> Prepared in connection with the confirmed short-term research internship under **Dr. Bahni Ray**, Associate Professor, Department of Mechanical Engineering, IIT Delhi (1 June 2026 – 31 July 2026; official letter dated 25 May 2026).
 
-### Extended Note 4
-Legacy model comparison is retained because practical adoption requires contextual benchmarking, not only single-model reporting. Analysts and reviewers often need to understand why a data-driven model is preferable to established deterministic formulas under specific parameter regimes.
+---
 
-### Extended Note 5
-Image preprocessing choices materially affect downstream geometric measurements. Small threshold variations can alter minor and major axis estimates and propagate into angle predictions. The pipeline therefore emphasizes transparent preprocessing stages and encourages analysts to inspect intermediate masks.
+## Abstract
 
-### Extended Note 6
-Morphological operations are used as controlled denoising mechanisms rather than cosmetic image edits. Erosion and dilation parameters should be selected with respect to pixel scale and expected stain size. Excessive cleanup can erase physically meaningful tails, while insufficient cleanup can inflate irregularity descriptors.
+Bloodstain Pattern Analysis (BPA) requires physically faithful modeling, robust image processing, and transparent uncertainty quantification. This repository implements that multidisciplinary approach by providing production-ready Python code for fluid-dynamics utilities, an exact artificial neural network surrogate for maximum spreading ratio, automated quantitative feature extraction from bloodstain images, and probabilistic three-dimensional region-of-origin reconstruction. The goal is to deliver a reproducible, auditable, and academically defensible computational foundation for research and forensic applications.
 
-### Extended Note 7
-Connected-component analysis transforms a raw stain field into a structured dataset suitable for statistical analysis. Each component can be interpreted as a measurement unit with local descriptors, confidence annotations, and potential exclusion flags for artifacts.
+---
 
-### Extended Note 8
-Local features and global features answer different forensic questions. Local features quantify individual stain morphology; global features characterize scene-level organization. A robust interpretation uses both, especially when pattern classes overlap visually.
+## Repository Purpose
 
-### Extended Note 9
-The probabilistic region-of-origin module is built to encourage uncertainty communication. Instead of asking for a single coordinate, investigators can report high-likelihood regions and compare hypotheses against confidence-aware volumes.
+This repository serves as the computational companion to the review paper:
 
-### Extended Note 10
-Scaling behavior such as V_RO ~ x0^n is useful for sanity checks and model diagnostics. If fitted exponents diverge strongly from expected ranges, this may indicate segmentation bias, calibration mismatch, or trajectory-model misspecification.
+> **Bloodstain Pattern Analysis: A Multidisciplinary Review of Fluid Dynamics, Machine Learning, and Image Processing Approaches**  
+> Parth Pariwandh, May 2026
 
-### Extended Note 11
-In practice, BPA computation benefits from disciplined calibration protocols. Camera calibration, scale annotation, and substrate metadata should be captured before numerical interpretation begins. Failing to encode calibration context can produce mathematically precise but physically misleading estimates. This repository therefore treats metadata as part of the model, not an optional appendix.
+It transforms the theoretical synthesis presented in the paper into executable, well-documented code while maintaining full scientific fidelity to the original equations, performance metrics, and conclusions.
 
-### Extended Note 12
-Reproducibility is a legal and scientific requirement in forensic engineering. Every transformation from image pixels to angle distributions should be traceable through versioned code, fixed dependencies, and explicit parameter records. This repository is designed to support that chain-of-custody mindset for computational evidence.
+---
 
-### Extended Note 13
-The ANN implementation is intentionally explicit rather than hidden inside serialized model files. Coefficients, normalization constants, and transfer functions are encoded as plain Python expressions. This improves auditability and allows direct cross-checking with equations printed in the review paper.
+## Connecting the Four Studies
 
-### Extended Note 14
-Legacy model comparison is retained because practical adoption requires contextual benchmarking, not only single-model reporting. Analysts and reviewers often need to understand why a data-driven model is preferable to established deterministic formulas under specific parameter regimes.
+| Paper                        | Core Problem                          | Key Method                                      | Key Result                              |
+|-----------------------------|---------------------------------------|--------------------------------------------------|-----------------------------------------|
+| Choudhury et al. (2023)     | Predicting β_max under roughness      | Exact 4-4-1 ANN with normalized inputs           | R² = 0.78 (blind test); roughness is critical |
+| Joris et al. (2014)         | Accurate impact-angle estimation      | Active Bloodstain Shape Model + polynomial regression | RMSE 1.44°; 89% within 2°              |
+| Attinger et al. (2019)      | 3-D region of origin with uncertainty | Physics-constrained probabilistic trajectories   | Error ≤ 10 cm; no systematic bias      |
+| Arthur et al. (2017)        | Objective pattern description         | Automated segmentation + local/global features   | Reduced subjectivity and improved repeatability |
 
-### Extended Note 15
-Image preprocessing choices materially affect downstream geometric measurements. Small threshold variations can alter minor and major axis estimates and propagate into angle predictions. The pipeline therefore emphasizes transparent preprocessing stages and encourages analysts to inspect intermediate masks.
+---
 
-### Extended Note 16
-Morphological operations are used as controlled denoising mechanisms rather than cosmetic image edits. Erosion and dilation parameters should be selected with respect to pixel scale and expected stain size. Excessive cleanup can erase physically meaningful tails, while insufficient cleanup can inflate irregularity descriptors.
+## Unified BPA Workflow
 
-### Extended Note 17
-Connected-component analysis transforms a raw stain field into a structured dataset suitable for statistical analysis. Each component can be interpreted as a measurement unit with local descriptors, confidence annotations, and potential exclusion flags for artifacts.
+```mermaid
+flowchart TD
+    A[High-resolution Image Acquisition] --> B[Preprocessing & Background Subtraction]
+    B --> C[Segmentation + Morphological Cleaning]
+    C --> D[Local & Global Feature Extraction]
+    D --> E[Impact Angle Estimation]
+    E --> F[Spreading Ratio Prediction]
+    F --> G[Trajectory Probability Distributions]
+    G --> H[Joint Likelihood & 3-D Confidence Volume]
+    H --> I[Forensic Interpretation & Reporting]
+```
 
-### Extended Note 18
-Local features and global features answer different forensic questions. Local features quantify individual stain morphology; global features characterize scene-level organization. A robust interpretation uses both, especially when pattern classes overlap visually.
 
-### Extended Note 19
-The probabilistic region-of-origin module is built to encourage uncertainty communication. Instead of asking for a single coordinate, investigators can report high-likelihood regions and compare hypotheses against confidence-aware volumes.
+## Key Capabilities
 
-### Extended Note 20
-Scaling behavior such as V_RO ~ x0^n is useful for sanity checks and model diagnostics. If fitted exponents diverge strongly from expected ranges, this may indicate segmentation bias, calibration mismatch, or trajectory-model misspecification.
+- **Exact ANN implementation** of the trained 4-4-1 network for maximum spreading ratio β_max (Eq. 9 from the review paper)
+- **Automated image-processing pipeline** reproducing the 12 local and global features defined by Arthur et al. (2017)
+- **Probabilistic 3-D region-of-origin** reconstruction following Attinger et al. (2019)
+- **Impact-angle estimation** using both classical ellipse fitting and the ABSM polynomial regression
+- **Physics utilities** for Weber, Reynolds, and Ohnesorge numbers
+- Publication-quality visualizations and fully documented Jupyter notebooks
 
-### Extended Note 21
-In practice, BPA computation benefits from disciplined calibration protocols. Camera calibration, scale annotation, and substrate metadata should be captured before numerical interpretation begins. Failing to encode calibration context can produce mathematically precise but physically misleading estimates. This repository therefore treats metadata as part of the model, not an optional appendix.
 
-### Extended Note 22
-Reproducibility is a legal and scientific requirement in forensic engineering. Every transformation from image pixels to angle distributions should be traceable through versioned code, fixed dependencies, and explicit parameter records. This repository is designed to support that chain-of-custody mindset for computational evidence.
 
-### Extended Note 23
-The ANN implementation is intentionally explicit rather than hidden inside serialized model files. Coefficients, normalization constants, and transfer functions are encoded as plain Python expressions. This improves auditability and allows direct cross-checking with equations printed in the review paper.
+## Critical Analysis
 
-### Extended Note 24
-Legacy model comparison is retained because practical adoption requires contextual benchmarking, not only single-model reporting. Analysts and reviewers often need to understand why a data-driven model is preferable to established deterministic formulas under specific parameter regimes.
+Traditional analytic models for droplet spreading break down when surface roughness and low-to-moderate Reynolds/Weber regimes dominate. The ANN approach captures these effects without requiring simplifying assumptions about flow geometry.
 
-### Extended Note 25
-Image preprocessing choices materially affect downstream geometric measurements. Small threshold variations can alter minor and major axis estimates and propagate into angle predictions. The pipeline therefore emphasizes transparent preprocessing stages and encourages analysts to inspect intermediate masks.
+Surface roughness (ra) emerges as the most influential parameter in the sensitivity analysis. Its omission, common in legacy models, significantly degrades predictive accuracy.
 
-### Extended Note 26
-Morphological operations are used as controlled denoising mechanisms rather than cosmetic image edits. Erosion and dilation parameters should be selected with respect to pixel scale and expected stain size. Excessive cleanup can erase physically meaningful tails, while insufficient cleanup can inflate irregularity descriptors.
+The Active Bloodstain Shape Model outperforms simple ellipse fitting particularly in the 20–50° impact-angle range, where stain distortion violates the assumptions of the inverse-sine rule.
 
-### Extended Note 27
-Connected-component analysis transforms a raw stain field into a structured dataset suitable for statistical analysis. Each component can be interpreted as a measurement unit with local descriptors, confidence annotations, and potential exclusion flags for artifacts.
+Probabilistic region-of-origin estimation replaces the single-point certainty of the string method with likelihood volumes, providing a more honest representation of uncertainty and eliminating the systematic height overestimation observed in deterministic approaches.
 
-### Extended Note 28
-Local features and global features answer different forensic questions. Local features quantify individual stain morphology; global features characterize scene-level organization. A robust interpretation uses both, especially when pattern classes overlap visually.
+Automated extraction of local and global features shifts BPA from subjective, mechanism-based classification toward repeatable, observation-driven description — an important step toward greater admissibility in forensic testimony.
 
-### Extended Note 29
-The probabilistic region-of-origin module is built to encourage uncertainty communication. Instead of asking for a single coordinate, investigators can report high-likelihood regions and compare hypotheses against confidence-aware volumes.
 
-### Extended Note 30
-Scaling behavior such as V_RO ~ x0^n is useful for sanity checks and model diagnostics. If fitted exponents diverge strongly from expected ranges, this may indicate segmentation bias, calibration mismatch, or trajectory-model misspecification.
 
-### Extended Note 31
-In practice, BPA computation benefits from disciplined calibration protocols. Camera calibration, scale annotation, and substrate metadata should be captured before numerical interpretation begins. Failing to encode calibration context can produce mathematically precise but physically misleading estimates. This repository therefore treats metadata as part of the model, not an optional appendix.
+## Relevance to Research Internship at IIT Delhi
 
-### Extended Note 32
-Reproducibility is a legal and scientific requirement in forensic engineering. Every transformation from image pixels to angle distributions should be traceable through versioned code, fixed dependencies, and explicit parameter records. This repository is designed to support that chain-of-custody mindset for computational evidence.
+The repository integrates fluid dynamics, machine learning for physical systems, image analysis, and statistical inference within a single coherent framework. This mirrors the multidisciplinary rigor expected in advanced mechanical engineering research, including the environment of Dr. Bahni Ray’s laboratory at IIT Delhi.
 
-### Extended Note 33
-The ANN implementation is intentionally explicit rather than hidden inside serialized model files. Coefficients, normalization constants, and transfer functions are encoded as plain Python expressions. This improves auditability and allows direct cross-checking with equations printed in the review paper.
 
-### Extended Note 34
-Legacy model comparison is retained because practical adoption requires contextual benchmarking, not only single-model reporting. Analysts and reviewers often need to understand why a data-driven model is preferable to established deterministic formulas under specific parameter regimes.
 
-### Extended Note 35
-Image preprocessing choices materially affect downstream geometric measurements. Small threshold variations can alter minor and major axis estimates and propagate into angle predictions. The pipeline therefore emphasizes transparent preprocessing stages and encourages analysts to inspect intermediate masks.
+## Quickstart
 
-### Extended Note 36
-Morphological operations are used as controlled denoising mechanisms rather than cosmetic image edits. Erosion and dilation parameters should be selected with respect to pixel scale and expected stain size. Excessive cleanup can erase physically meaningful tails, while insufficient cleanup can inflate irregularity descriptors.
+bash
+git clone https://github.com/parthpariwandh/bpa-multidisciplinary-review.git
+cd bpa-multidisciplinary-review
 
-### Extended Note 37
-Connected-component analysis transforms a raw stain field into a structured dataset suitable for statistical analysis. Each component can be interpreted as a measurement unit with local descriptors, confidence annotations, and potential exclusion flags for artifacts.
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+pip install -e .
+```
 
-### Extended Note 38
-Local features and global features answer different forensic questions. Local features quantify individual stain morphology; global features characterize scene-level organization. A robust interpretation uses both, especially when pattern classes overlap visually.
+Example usage
 
-### Extended Note 39
-The probabilistic region-of-origin module is built to encourage uncertainty communication. Instead of asking for a single coordinate, investigators can report high-likelihood regions and compare hypotheses against confidence-aware volumes.
+python
+from bpa.ann import predict_beta_max
+from bpa.image_pipeline import analyze_pattern
 
-### Extended Note 40
-Scaling behavior such as V_RO ~ x0^n is useful for sanity checks and model diagnostics. If fitted exponents diverge strongly from expected ranges, this may indicate segmentation bias, calibration mismatch, or trajectory-model misspecification.
+beta = predict_beta_max(Re=3200, We=500, theta_rad=1.05, ra_nm=450)
+print(f"Predicted β_max: {beta:.3f}")
 
-### Extended Note 41
-In practice, BPA computation benefits from disciplined calibration protocols. Camera calibration, scale annotation, and substrate metadata should be captured before numerical interpretation begins. Failing to encode calibration context can produce mathematically precise but physically misleading estimates. This repository therefore treats metadata as part of the model, not an optional appendix.
+features = analyze_pattern("example_stain.png")
+print(features)
+```
 
-### Extended Note 42
-Reproducibility is a legal and scientific requirement in forensic engineering. Every transformation from image pixels to angle distributions should be traceable through versioned code, fixed dependencies, and explicit parameter records. This repository is designed to support that chain-of-custody mindset for computational evidence.
 
-### Extended Note 43
-The ANN implementation is intentionally explicit rather than hidden inside serialized model files. Coefficients, normalization constants, and transfer functions are encoded as plain Python expressions. This improves auditability and allows direct cross-checking with equations printed in the review paper.
+## Future Directions
 
-### Extended Note 44
-Legacy model comparison is retained because practical adoption requires contextual benchmarking, not only single-model reporting. Analysts and reviewers often need to understand why a data-driven model is preferable to established deterministic formulas under specific parameter regimes.
+- Integration of Physics-Informed Neural Networks (PINNs) for trajectory constraints
+- Validation against larger, real-world bloodstain datasets
+- Enhanced uncertainty quantification and sensitivity tools
+- Substrate-specific calibration modules
 
-### Extended Note 45
-Image preprocessing choices materially affect downstream geometric measurements. Small threshold variations can alter minor and major axis estimates and propagate into angle predictions. The pipeline therefore emphasizes transparent preprocessing stages and encourages analysts to inspect intermediate masks.
+
+
+## Citation
+
+Please cite this repository using the `CITATION.cff` file and the BibTeX entry provided in `paper/references.bib`.
+
+---
+
+## License
+
+This repository is released under the **MIT License**.
+
+---
+
+Maintained by Parth Pariwandh (Jadavpur University)
