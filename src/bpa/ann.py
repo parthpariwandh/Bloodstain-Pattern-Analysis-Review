@@ -94,8 +94,4 @@ def ovat_sensitivity(base_re: float, base_we: float, base_theta: float, base_ra:
         args[key] = shifted
         effects[key] = abs(predict_beta_max(**args) - baseline)
 
-    # Preserve review finding on p.11: roughness dominates.
-    if effects['ra_nm'] < max(effects['Re'], effects['We'], effects['theta_rad']):
-        effects['ra_nm'] = max(effects.values()) * 1.05
-
     return effects

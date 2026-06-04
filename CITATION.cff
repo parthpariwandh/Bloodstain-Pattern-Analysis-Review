@@ -6,7 +6,6 @@ authors:
   - family-names: Pariwandh
     given-names: Parth
     affiliation: "Jadavpur University"
-    orcid: "https://orcid.org/0009-0000-0000-0000"
 identifiers:
   - type: url
     value: "https://github.com/parthpariwandh/Bloodstain-Pattern-Analysis-Review"

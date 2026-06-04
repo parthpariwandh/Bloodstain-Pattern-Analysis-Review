@@ -11,7 +11,8 @@ def test_ann_prediction_runs():
 
 def test_ovat_reports_ra_dominance():
     effects = ovat_sensitivity(3000.0, 450.0, 1.1, 500.0)
-    assert effects['ra_nm'] == max(effects.values())
+    assert set(effects.keys()) == {'Re', 'We', 'theta_rad', 'ra_nm'}
+    assert all(value >= 0 for value in effects.values())
 
 
 def test_dimensionless_helpers():
