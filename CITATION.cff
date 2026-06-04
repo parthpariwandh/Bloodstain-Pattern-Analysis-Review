@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Bloodstain Pattern Analysis: A Multidisciplinary Review - Computational Companion"
+message: "If you use this repository, please cite the review paper and this software companion."
+type: software
+authors:
+  - family-names: Pariwandh
+    given-names: Parth
+    affiliation: "Jadavpur University"
+identifiers:
+  - type: url
+    value: "https://github.com/parthpariwandh/Bloodstain-Pattern-Analysis-Review"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Pariwandh
+      given-names: Parth
+  title: "Bloodstain Pattern Analysis: A Multidisciplinary Review of Fluid Dynamics, Machine Learning, and Image Processing Approaches"
+  year: 2026
+  month: 5
+references:
+  - type: article
+    authors:
+      - family-names: Joris
+        given-names: A.
+    title: "Reliable determination of impact angle in bloodstain pattern analysis"
+    year: 2014
+  - type: article
+    authors:
+      - family-names: Attinger
+        given-names: D.
+    title: "Probabilistic area of convergence and area of origin for bloodstains"
+    year: 2019
+  - type: article
+    authors:
+      - family-names: Arthur
+        given-names: R. M.
+    title: "Automated analytical pipeline for bloodstain pattern feature extraction"
+    year: 2017
+  - type: article
+    authors:
+      - family-names: Pariwandh
+        given-names: Parth
+    title: "ANN model for maximum spreading ratio in oblique droplet impact"
+    year: 2026
+license: MIT

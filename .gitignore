@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scientific Python artifacts
+*.h5
+*.hdf5
+*.nc
+*.feather
+*.parquet
+figures/*.svg
+figures/*.tmp
