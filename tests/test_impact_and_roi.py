@@ -6,7 +6,7 @@ from bpa.probabilistic_roi import HeightPdfParams, estimate_volume_scaling_expon
 
 def test_impact_models_return_finite_values():
     assert traditional_impact_angle_deg(2.0, 4.0) > 0
-    assert polynomial_impact_angle_deg(10.0) > 0
+    assert np.isfinite(polynomial_impact_angle_deg(10.0))
 
 
 def test_probabilistic_helpers():

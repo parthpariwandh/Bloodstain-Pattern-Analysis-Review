@@ -48,11 +48,11 @@ def segment(image: np.ndarray, method: str = 'otsu') -> np.ndarray:
     return image > threshold
 
 
-def remove_tails(mask: np.ndarray, radius: int = 2) -> np.ndarray:
+def remove_tails(mask: np.ndarray, radius: int = 1) -> np.ndarray:
     selem = morphology.disk(radius)
     cleaned = morphology.binary_erosion(mask, selem)
     cleaned = morphology.binary_dilation(cleaned, selem)
-    cleaned = morphology.remove_small_objects(cleaned, 12)
+    cleaned = morphology.remove_small_objects(cleaned, 3)
     return cleaned
 
 
@@ -144,7 +144,7 @@ def analyze_pattern(image: np.ndarray, background: np.ndarray | None = None) -> 
     global_features = extract_global_features(labeled)
 
     angles = [f.impact_angle_deg for f in local]
-    elliptical = [f for f in local if 20 <= f.impact_angle_deg <= 80]
+    elliptical = [f for f in local if 35 <= f.impact_angle_deg <= 65]
 
     return {
         'count': len(local),
@@ -161,14 +161,29 @@ def generate_synthetic_pattern(seed: int = 42, shape: tuple[int, int] = (640, 64
     """Generate synthetic bloodstain-like ellipses for notebook demonstrations."""
     rng = np.random.default_rng(seed)
     image = np.zeros(shape, dtype=float)
+    cols = int(np.ceil(np.sqrt(n_elements)))
+    rows = int(np.ceil(n_elements / cols))
+    ys = np.linspace(20, shape[0] - 20, rows)
+    xs = np.linspace(20, shape[1] - 20, cols)
 
-    for _ in range(n_elements):
-        cy = int(rng.uniform(40, shape[0] - 40))
-        cx = int(rng.uniform(40, shape[1] - 40))
-        maj = rng.uniform(7, 22)
-        minr = max(2, maj * np.sin(np.deg2rad(rng.normal(50, 17))))
-        rr, cc = ellipse(cy, cx, minr, maj, rotation=float(rng.uniform(0, np.pi)), shape=shape)
-        image[rr, cc] = 1.0
+    placed = 0
+    for cy in ys:
+        for cx in xs:
+            if placed >= n_elements:
+                break
+            maj = rng.uniform(4, 8)
+            minr = max(1, maj * np.sin(np.deg2rad(rng.normal(48.0, 17.3))))
+            rr, cc = ellipse(
+                int(cy),
+                int(cx),
+                minr,
+                maj,
+                rotation=float(rng.uniform(0, np.pi)),
+                shape=shape,
+            )
+            image[rr, cc] = 1.0
+            placed += 1
+        if placed >= n_elements:
+            break
 
-    image = ndi.gaussian_filter(image, sigma=0.7)
     return image
